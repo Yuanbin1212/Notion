@@ -1,0 +1,35 @@
+# Python
+
+Date: May 4, 2023 12:00 AM
+Last edited time: May 4, 2023 2:13 PM
+Level: 一级标题
+Owner: 我叫袁小陌
+Tags: Python
+
+[python入门](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/python%E5%85%A5%E9%97%A8%207462ae80ea9944c581451decd6ce9da7.md)
+
+[变量与基本数据类型](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E5%8F%98%E9%87%8F%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%206d0ddd0d5d60431880640e3b625ea829.md)
+
+[输入输出与格式化](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E4%B8%8E%E6%A0%BC%E5%BC%8F%E5%8C%96%20410114a13adb4c53955fd356ee913ef2.md)
+
+[运算符与控制符](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E8%BF%90%E7%AE%97%E7%AC%A6%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%AC%A6%20a4b85bc2e6d54aa4bc9f5ff6dd214a7e.md)
+
+[深浅拷贝](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D%2001d41397b5824d4cb6a1a45d7e79487f.md)
+
+[数据类型详解](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%AF%A6%E8%A7%A3%20bc54299782774d438f5875e85a98a662.md)
+
+[文件与文件模式介绍](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E6%96%87%E4%BB%B6%E4%B8%8E%E6%96%87%E4%BB%B6%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%2099f86850edbe4d6d8e75cecfdecadff9.md)
+
+[函数](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E5%87%BD%E6%95%B0%20df2f4adc6d904a7f96ed291e335bf9dd.md)
+
+[装饰器](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E8%A3%85%E9%A5%B0%E5%99%A8%2097a811913b9045efbb40f30521f501f4.md)
+
+[迭代器生成器](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%94%9F%E6%88%90%E5%99%A8%201b2d158c4c5540e3bfa5d29894f5bbc2.md)
+
+[匿名函数](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E5%8C%BF%E5%90%8D%E5%87%BD%E6%95%B0%209ed034cdee134909ab964713170d18c6.md)
+
+[常用模块](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E5%B8%B8%E7%94%A8%E6%A8%A1%E5%9D%97%20b69d88ecb773455c918f09b4376bfb24.md)
+
+[面向对象](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%20489506f0f013419e9d70c70db3b32410.md)
+
+[问题记录](Python%2020cb2edfb5bb4bda87c1c819427b7cc7/%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95%20731b7aae079c4bcca54cd86a68a58b5d.md)
